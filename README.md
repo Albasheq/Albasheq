@@ -1,6 +1,14 @@
 <div align="center">
   
-<!--  <img src="Downloads/image.png" alt="Hello Coders" width="60%"/>  -->
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- المسار حول النص -->
+  <path d="M10,20 L290,20 L290,180 L10,180 Z" fill="none" stroke="black" stroke-width="2"/>
+  
+  <!-- النص -->
+  <text x="20" y="40" font-family="Arial" font-size="16">HELLO</text>
+  <text x="20" y="70" font-family="Arial" font-size="16">CODERS</text>
+  <text x="20" y="100" font-family="Arial" font-size="16">I'M ALBASHEQ</text>
+</svg>
 
   
   <br><br>
