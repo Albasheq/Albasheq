@@ -5,7 +5,7 @@
   
   <br><br>
   
-[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="20"/> Instagram](https://instagram.com/albashq4)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" target="_blank" width="20"/> Instagram](https://instagram.com/albashq4)
 
   
 </div>
