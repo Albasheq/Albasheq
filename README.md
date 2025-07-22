@@ -53,10 +53,5 @@
 
 ---
 
-## 📬 Contact
-
-Feel free to reach out on [Telegram](https://t.me/spxd007) if you want to connect or collaborate.
-
----
 
 > ⚡ *Fun Fact:* The command line is my comfort zone 😎  
